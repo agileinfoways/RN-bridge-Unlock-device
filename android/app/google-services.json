@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86324245682",
+    "firebase_url": "https://nativebridge-18cc2.firebaseio.com",
+    "project_id": "nativebridge-18cc2",
+    "storage_bucket": "nativebridge-18cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86324245682:android:1f2e33ee85526a44",
+        "android_client_info": {
+          "package_name": "com.nativebridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86324245682-bet71inpbprvuoh9hvbr9gp7kr9939bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc3awGLtRzmQbXOLccwoah_1jvTldEXlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86324245682-bet71inpbprvuoh9hvbr9gp7kr9939bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

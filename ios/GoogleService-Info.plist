@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>12066332663-nr4p3rafkeepnmfkc8sfrgdd1l0qq1d5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.12066332663-nr4p3rafkeepnmfkc8sfrgdd1l0qq1d5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVDofiN6GUAojLYixnDhheDFUCDwa730A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>12066332663</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.TavrTalk</string>
+	<key>PROJECT_ID</key>
+	<string>tavrtalk-internal</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tavrtalk-internal.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:12066332663:ios:59b8f39d16a29f17</string>
+	<key>DATABASE_URL</key>
+	<string>https://tavrtalk-internal.firebaseio.com</string>
+</dict>
+</plist>
